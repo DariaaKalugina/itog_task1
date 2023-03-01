@@ -1,0 +1,15 @@
+C:\Users\79811\OneDrive\Рабочий стол\homework itog\task_itog\bin\Debug\net7.0\task_itog.exe
+C:\Users\79811\OneDrive\Рабочий стол\homework itog\task_itog\bin\Debug\net7.0\task_itog.deps.json
+C:\Users\79811\OneDrive\Рабочий стол\homework itog\task_itog\bin\Debug\net7.0\task_itog.runtimeconfig.json
+C:\Users\79811\OneDrive\Рабочий стол\homework itog\task_itog\bin\Debug\net7.0\task_itog.dll
+C:\Users\79811\OneDrive\Рабочий стол\homework itog\task_itog\bin\Debug\net7.0\task_itog.pdb
+C:\Users\79811\OneDrive\Рабочий стол\homework itog\task_itog\obj\Debug\net7.0\task_itog.csproj.AssemblyReference.cache
+C:\Users\79811\OneDrive\Рабочий стол\homework itog\task_itog\obj\Debug\net7.0\task_itog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79811\OneDrive\Рабочий стол\homework itog\task_itog\obj\Debug\net7.0\task_itog.AssemblyInfoInputs.cache
+C:\Users\79811\OneDrive\Рабочий стол\homework itog\task_itog\obj\Debug\net7.0\task_itog.AssemblyInfo.cs
+C:\Users\79811\OneDrive\Рабочий стол\homework itog\task_itog\obj\Debug\net7.0\task_itog.csproj.CoreCompileInputs.cache
+C:\Users\79811\OneDrive\Рабочий стол\homework itog\task_itog\obj\Debug\net7.0\task_itog.dll
+C:\Users\79811\OneDrive\Рабочий стол\homework itog\task_itog\obj\Debug\net7.0\refint\task_itog.dll
+C:\Users\79811\OneDrive\Рабочий стол\homework itog\task_itog\obj\Debug\net7.0\task_itog.pdb
+C:\Users\79811\OneDrive\Рабочий стол\homework itog\task_itog\obj\Debug\net7.0\task_itog.genruntimeconfig.cache
+C:\Users\79811\OneDrive\Рабочий стол\homework itog\task_itog\obj\Debug\net7.0\ref\task_itog.dll
